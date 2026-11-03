@@ -1,0 +1,17 @@
+{
+  "name": "wortly. — немецкие слова",
+  "short_name": "wortly.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8f6f2",
+  "theme_color": "#293b34",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
